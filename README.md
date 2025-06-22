@@ -18,7 +18,7 @@ HellHound é um script Python que monitora tentativas de conexão e envia alerta
 
 1. Clone o repositório ou copie o script para seu servidor.
 2. Crie um Log na iptables com um Trigger para ativar o script.
-3: Instale as dependências
+3. Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
