@@ -10,6 +10,7 @@ from telegram.ext import ApplicationBuilder
 import os
 from dotenv import load_dotenv
 from datetime import datetime
+import geocoder
 
 load_dotenv()
 
